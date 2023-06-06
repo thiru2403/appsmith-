@@ -1,0 +1,15 @@
+{
+  "name": "thiru-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "NPM",
+    "registry"
+  ],
+  "author": "thiru",
+  "license": "ISC"
+}
